@@ -1,4 +1,3 @@
-# scripts/generate_followers.py
 import requests
 import os
 import sys
