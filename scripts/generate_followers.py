@@ -82,6 +82,40 @@ def save_html(content, path="followers.html"):
         f.write(content)
     print(f"HTML file saved to: {full_path}")
 
+def update_readme_with_followers(followers_html, readme_path="README.md"):
+    # Get the directory of the current script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    # Go up one level to the project root
+    project_root = os.path.dirname(script_dir)
+    # Create the full path to the README file
+    full_path = os.path.join(project_root, readme_path)
+    
+    # Read current README content
+    with open(full_path, "r", encoding="utf-8") as f:
+        readme_content = f.read()
+    
+    # Define the markers for the followers section
+    start_marker = "<!-- FOLLOWERS-GRID:START -->"
+    end_marker = "<!-- FOLLOWERS-GRID:END -->"
+    
+    # Create the new followers section
+    followers_section = f"{start_marker}\n{followers_html}\n{end_marker}"
+    
+    # Check if markers exist
+    if start_marker in readme_content and end_marker in readme_content:
+        # Replace existing section
+        import re
+        pattern = f"{re.escape(start_marker)}.*?{re.escape(end_marker)}"
+        new_content = re.sub(pattern, followers_section, readme_content, flags=re.DOTALL)
+    else:
+        # Add new section at the end
+        new_content = readme_content.rstrip() + f"\n\n## 👥 My Followers\n\n{followers_section}\n"
+    
+    # Write updated content back to README
+    with open(full_path, "w", encoding="utf-8") as f:
+        f.write(new_content)
+    print(f"README updated with followers grid: {full_path}")
+
 if __name__ == "__main__":
     try:
         followers = fetch_followers(USERNAME)
@@ -91,7 +125,8 @@ if __name__ == "__main__":
             
         html = generate_html(followers)
         save_html(html)
-        print("Successfully generated followers grid!")
+        update_readme_with_followers(html)
+        print("Successfully generated followers grid and updated README!")
         
     except Exception as e:
         print(f"An error occurred: {e}")
