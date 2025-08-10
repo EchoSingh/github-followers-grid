@@ -87,6 +87,12 @@ This repository automatically generates a beautiful grid display of your GitHub 
 
   <tr>
     <td align="center">
+      <a href="https://github.com/Greashajain" aria-label="Greashajain">
+        <img src="https://avatars.githubusercontent.com/u/137306853?v=4" width="50px" alt="Greashajain"/><br />
+        <sub><b>Greashajain</b></sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Vaibhav-Magadum" aria-label="Vaibhav-Magadum">
         <img src="https://avatars.githubusercontent.com/u/139147981?v=4" width="50px" alt="Vaibhav-Magadum"/><br />
         <sub><b>Vaibhav-Magadum</b></sub>
@@ -116,15 +122,15 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>JahagirdarPrajwal</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/ShreyaMahadev" aria-label="ShreyaMahadev">
         <img src="https://avatars.githubusercontent.com/u/146538402?v=4" width="50px" alt="ShreyaMahadev"/><br />
         <sub><b>ShreyaMahadev</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/Prakharsahu10" aria-label="Prakharsahu10">
         <img src="https://avatars.githubusercontent.com/u/147237263?v=4" width="50px" alt="Prakharsahu10"/><br />
@@ -155,22 +161,21 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>0xChilli</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/scapelinked" aria-label="scapelinked">
         <img src="https://avatars.githubusercontent.com/u/167438575?v=4" width="50px" alt="scapelinked"/><br />
         <sub><b>scapelinked</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/aadyas17" aria-label="aadyas17">
         <img src="https://avatars.githubusercontent.com/u/171001126?v=4" width="50px" alt="aadyas17"/><br />
         <sub><b>aadyas17</b></sub>
       </a>
     </td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
