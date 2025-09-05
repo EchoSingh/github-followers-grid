@@ -171,6 +171,12 @@ This repository automatically generates a beautiful grid display of your GitHub 
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/bagrova-av" aria-label="bagrova-av">
+        <img src="https://avatars.githubusercontent.com/u/164252591?v=4" width="50px" alt="bagrova-av"/><br />
+        <sub><b>bagrova-av</b></sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/scapelinked" aria-label="scapelinked">
         <img src="https://avatars.githubusercontent.com/u/167438575?v=4" width="50px" alt="scapelinked"/><br />
         <sub><b>scapelinked</b></sub>
@@ -188,7 +194,6 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>doussaaa</b></sub>
       </a>
     </td>
-    <td></td>
     <td></td>
   </tr>
 </table>
