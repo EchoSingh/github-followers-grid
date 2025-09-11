@@ -189,12 +189,17 @@ This repository automatically generates a beautiful grid display of your GitHub 
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/Ananya-B-A" aria-label="Ananya-B-A">
+        <img src="https://avatars.githubusercontent.com/u/180737928?v=4" width="50px" alt="Ananya-B-A"/><br />
+        <sub><b>Ananya-B-A</b></sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/doussaaa" aria-label="doussaaa">
         <img src="https://avatars.githubusercontent.com/u/189906006?v=4" width="50px" alt="doussaaa"/><br />
         <sub><b>doussaaa</b></sub>
       </a>
     </td>
-    <td></td>
   </tr>
 </table>
 </div>
