@@ -201,6 +201,20 @@ This repository automatically generates a beautiful grid display of your GitHub 
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/aungmyo-lin" aria-label="aungmyo-lin">
+        <img src="https://avatars.githubusercontent.com/u/211851604?v=4" width="50px" alt="aungmyo-lin"/><br />
+        <sub><b>aungmyo-lin</b></sub>
+      </a>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 </div>
 <!-- FOLLOWERS-GRID:END -->
