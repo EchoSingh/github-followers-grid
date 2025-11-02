@@ -87,6 +87,12 @@ This repository automatically generates a beautiful grid display of your GitHub 
 
   <tr>
     <td align="center">
+      <a href="https://github.com/DrParthaMajumder" aria-label="DrParthaMajumder">
+        <img src="https://avatars.githubusercontent.com/u/133194289?v=4" width="50px" alt="DrParthaMajumder"/><br />
+        <sub><b>DrParthaMajumder</b></sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/pkparthk" aria-label="pkparthk">
         <img src="https://avatars.githubusercontent.com/u/134757839?v=4" width="50px" alt="pkparthk"/><br />
         <sub><b>pkparthk</b></sub>
@@ -116,15 +122,15 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>Vaibhav-Magadum</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/1223akash" aria-label="1223akash">
         <img src="https://avatars.githubusercontent.com/u/139630240?v=4" width="50px" alt="1223akash"/><br />
         <sub><b>1223akash</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/islimeng" aria-label="islimeng">
         <img src="https://avatars.githubusercontent.com/u/140187688?v=4" width="50px" alt="islimeng"/><br />
@@ -155,15 +161,15 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>Prakharsahu10</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/Incharajayaram" aria-label="Incharajayaram">
         <img src="https://avatars.githubusercontent.com/u/148113274?v=4" width="50px" alt="Incharajayaram"/><br />
         <sub><b>Incharajayaram</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/y-sudharshan" aria-label="y-sudharshan">
         <img src="https://avatars.githubusercontent.com/u/152261718?v=4" width="50px" alt="y-sudharshan"/><br />
@@ -194,15 +200,15 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>scapelinked</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/aadyas17" aria-label="aadyas17">
         <img src="https://avatars.githubusercontent.com/u/171001126?v=4" width="50px" alt="aadyas17"/><br />
         <sub><b>aadyas17</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/Ananya-B-A" aria-label="Ananya-B-A">
         <img src="https://avatars.githubusercontent.com/u/180737928?v=4" width="50px" alt="Ananya-B-A"/><br />
@@ -233,7 +239,6 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>sphinxzerd</b></sub>
       </a>
     </td>
-    <td></td>
   </tr>
 </table>
 </div>
