@@ -21,6 +21,12 @@ This repository automatically generates a beautiful grid display of your GitHub 
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/giladfuchs" aria-label="giladfuchs">
+        <img src="https://avatars.githubusercontent.com/u/33724031?v=4" width="50px" alt="giladfuchs"/><br />
+        <sub><b>giladfuchs</b></sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/standardgalactic" aria-label="standardgalactic">
         <img src="https://avatars.githubusercontent.com/u/43516554?v=4" width="50px" alt="standardgalactic"/><br />
         <sub><b>standardgalactic</b></sub>
@@ -38,15 +44,15 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>KaiAllAlone</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/helallao" aria-label="helallao">
         <img src="https://avatars.githubusercontent.com/u/78656003?v=4" width="50px" alt="helallao"/><br />
         <sub><b>helallao</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/seckinyasar" aria-label="seckinyasar">
         <img src="https://avatars.githubusercontent.com/u/86570205?v=4" width="50px" alt="seckinyasar"/><br />
@@ -77,15 +83,15 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>PhenomSG</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/Harshjosh361" aria-label="Harshjosh361">
         <img src="https://avatars.githubusercontent.com/u/113841022?v=4" width="50px" alt="Harshjosh361"/><br />
         <sub><b>Harshjosh361</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/adityaa05" aria-label="adityaa05">
         <img src="https://avatars.githubusercontent.com/u/119867689?v=4" width="50px" alt="adityaa05"/><br />
@@ -116,15 +122,15 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>DrParthaMajumder</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/pkparthk" aria-label="pkparthk">
         <img src="https://avatars.githubusercontent.com/u/134757839?v=4" width="50px" alt="pkparthk"/><br />
         <sub><b>pkparthk</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/kylehonke" aria-label="kylehonke">
         <img src="https://avatars.githubusercontent.com/u/135394003?v=4" width="50px" alt="kylehonke"/><br />
@@ -155,15 +161,15 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>1223akash</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/islimeng" aria-label="islimeng">
         <img src="https://avatars.githubusercontent.com/u/140187688?v=4" width="50px" alt="islimeng"/><br />
         <sub><b>islimeng</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/chimichangaz" aria-label="chimichangaz">
         <img src="https://avatars.githubusercontent.com/u/140685858?v=4" width="50px" alt="chimichangaz"/><br />
@@ -194,15 +200,15 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>Incharajayaram</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/y-sudharshan" aria-label="y-sudharshan">
         <img src="https://avatars.githubusercontent.com/u/152261718?v=4" width="50px" alt="y-sudharshan"/><br />
         <sub><b>y-sudharshan</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/rahulkrchaudhary" aria-label="rahulkrchaudhary">
         <img src="https://avatars.githubusercontent.com/u/152591373?v=4" width="50px" alt="rahulkrchaudhary"/><br />
@@ -233,15 +239,15 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>aadyas17</b></sub>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/Ananya-B-A" aria-label="Ananya-B-A">
         <img src="https://avatars.githubusercontent.com/u/180737928?v=4" width="50px" alt="Ananya-B-A"/><br />
         <sub><b>Ananya-B-A</b></sub>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/doussaaa" aria-label="doussaaa">
         <img src="https://avatars.githubusercontent.com/u/189906006?v=4" width="50px" alt="doussaaa"/><br />
@@ -266,7 +272,6 @@ This repository automatically generates a beautiful grid display of your GitHub 
         <sub><b>sphinxzerd</b></sub>
       </a>
     </td>
-    <td></td>
     <td></td>
   </tr>
 </table>
