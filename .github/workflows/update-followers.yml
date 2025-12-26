@@ -1,10 +1,6 @@
 name: Update Followers Grid
 
-on:
-  schedule:
-    # Run every day at 6 AM UTC
-    - cron: '0 6 * * *'
-  workflow_dispatch: # Allow manual trigger
+on: []
 
 jobs:
   update-followers:
